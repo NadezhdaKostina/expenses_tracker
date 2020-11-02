@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?> 
+<expenses>
+  <expense date='9.7.2015' category='Education' amount='900'>
+     Ruby on Rails Book 
+  </expense>
+  <expense date='1.7.2015' category='Good programmer' amount='400'>
+     Petlichka i provoda 
+  </expense>
+  <expense date='23.6.2015' category='Education' amount='3500'>
+     Softbox + shtativ 
+  </expense>
+  <expense date='2020.11.02' amount='100' category='Clothes'>
+    Shoes
+  </expense>
+</expenses>
